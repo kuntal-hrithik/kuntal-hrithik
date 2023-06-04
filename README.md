@@ -1,4 +1,6 @@
-![Profile views](https://gpvc.arturio.dev/kuntal-hrithik)
+
+
+<img align="right" src="https://komarev.com/ghpvc/?username=rajput-hemant&label=Profile+Views&style=plastic" alt="rajput-hemant" />
 
 <div align="center">
 
