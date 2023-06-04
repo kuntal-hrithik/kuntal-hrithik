@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://komarev.com/ghpvc/?username=rajput-hemant&label=Profile+Views&style=plastic" alt="rajput-hemant" />
+<img align="right" src="https://komarev.com/ghpvc/?username=kuntal-hrithik&label=Profile+Views&style=plastic" alt="kuntal-hrithik" />
 
 <div align="center">
 
