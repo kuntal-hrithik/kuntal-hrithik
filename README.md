@@ -12,7 +12,7 @@
 
 ![][git] ![][github] ![][vscode] ![][arch] <br>
 ![][c] ![][c++] ![][java] ![][markdown] ![][python] ![][javascript] <br>
-![][flutter] ![][mysql] ![][html] ![][css] <br>
+![][flutter] ![][mysql] ![][html] ![][css] ![react] ![nextjs] <br>
 
 ## 📊 GitHub Stats:
 
@@ -41,6 +41,8 @@
 [meme]: https://random-memer.herokuapp.com
 
 <!----------------------------------{ language badges }--------------------------------->
+[react]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[nextjs]: https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
 
 [c]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c
 [c++]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B
